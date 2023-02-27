@@ -44,3 +44,39 @@
 
 # ML Engineering
 
+### Phase 8: Data Science Workflow
+- Case Study
+- Business Understanding
+- Data Understanding
+- Data Preparation
+- Exploratory Data Analysis
+- Modeling
+- Model Evaluation
+- Deployment
+
+### Phase 9: Math
+
+### Phase 10: Data Science with Python
+
+### Phase 11: Machine Learning
+
+### Phase 12: Deep Learning
+
+### Phase 13: Domain Knowledge
+
+### Phase 14: A/B Testing
+
+### Phase 15: Research
+
+### Phase 16: MLOps
+
+### Phase 17: ModelOps
+
+# Management
+
+### Phase 18: Project Management
+
+### Phase 19: Data Management and Governance
+
+### Phase 20: Model Management and Governance
+
