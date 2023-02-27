@@ -42,7 +42,7 @@
 - Configuration Management
 - Monitoring
 
-# ML Engineering
+## ML Engineering
 
 ### Phase 8: Data Science Workflow
 - Case Study
@@ -72,7 +72,7 @@
 
 ### Phase 17: ModelOps
 
-# Management
+## Management
 
 ### Phase 18: Project Management
 
