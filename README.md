@@ -6,6 +6,11 @@
 ___
 ## * Prerequisites
 ### Fundamentals (Concepts, Technology, Tooling at the high level view)
+Data Engineering
+Cloud Computing
+DevOps
+Machine Learning
+AI
 
 ### IT Automation
 - Core Python Programming
