@@ -6,11 +6,12 @@
 ___
 ## * Prerequisites
 ### Fundamentals (Concepts, Technology, Tooling at the high level view)
-Data Engineering
-Cloud Computing
-DevOps
-Machine Learning
-AI
+- Data Engineering
+- AI/Machine Learning
+- Cloud Computing
+- DevOps
+- Data Science
+- Analytics
 
 ### IT Automation
 - Core Python Programming
