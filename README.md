@@ -52,6 +52,7 @@ ___
 - Netwroking
 - Security
 - Serverless
+- Architectural Diagram
 ___
 ## * DevOps
 - CI/CD
