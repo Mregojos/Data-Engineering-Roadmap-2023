@@ -1,6 +1,11 @@
 # Roadmap (Data/Cloud/Devops/ML/AI)
 > By: [Mregojos GitHub](https://github.com/Mregojos)
 
+> About: This roadmap is created by me. This roadmap directs what concepts, tehnology, and tooling to learn as a Data/Cloud/Devops/ML/AI Prctitioner.
+
+## Prerequisites
+
+
 ## Data Engineering 
 
 ### Phase 1: Data Analytics
