@@ -55,9 +55,9 @@ ___
 - Monitoring and Observability
 - Testing
 ___
-## ML Engineering
+## AI and ML Engineering
 
-### Phase 8: Data Science Workflow
+### Data Science Workflow
 - Case Study
 - Business Understanding
 - Data Understanding
@@ -67,29 +67,34 @@ ___
 - Model Evaluation
 - Deployment
 
-### Phase 9: Math
+### Math
 
-### Phase 10: Data Science with Python
+### Data Science with Python
 
-### Phase 11: Machine Learning
+### Machine Learning
 
-### Phase 12: Deep Learning
+### Deep Learning
 
-### Phase 13: Domain Knowledge
+### Domain Knowledge
 
-### Phase 14: A/B Testing
+### A/B Testing
 
-### Phase 15: Research
+### Research
 
-### Phase 16: MLOps
+### MLOps
 
-### Phase 17: ModelOps
+### ModelOps
 
+### AI Applications
+___
 ## Management
 
-### Phase 18: Project Management
+### Project Management
 
-### Phase 19: Data Management and Governance
+### Data Management and Governance
 
-### Phase 20: Model Management and Governance
+### Cloud and DevOps Management and Governance
+
+### Model Management and Governance
+
 
