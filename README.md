@@ -61,7 +61,7 @@ ___
 - Monitoring and Observability
 - Testing
 ___
-## * AI and ML Engineering
+## * AI/ML Engineering
 
 ### Data Science Workflow
 - Case Study
