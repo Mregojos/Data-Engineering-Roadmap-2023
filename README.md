@@ -3,41 +3,39 @@
 
 > About: This roadmap is created by me. This roadmap directs what concepts, technology, and tooling to learn as a Data/Cloud/Devops/ML/AI Prctitioner.
 
-## Prerequisites
+___
+## * Prerequisites *
+### Fundamentals (Concepts, Technology, Tooling at the high level view)
 
+### IT Automation
+- Core Python Programming
+- System Administration (OS, Database, Networking)
+- Version Control
+___
+## * Data Engineering *
 
-## Data Engineering 
-
-### Phase 1: Data Analytics
-- Data Analytics Fundamentals
+### Data Analytics
 - Spreadsheets
-- Query Language
-- Relational Database Management System
+- Structured Query Language
+- Relational Database Management System (RDMS)
 - Data Visualization
 
-### Phase 2: Data Engineering & IT Automation
-- Data Engineering Fundamentals
-- Core Python Programming
-- System Administration
-- Version Control
-
-### Phase 3: Data Engineering with Python
+### Data Engineering with Python
 - Data Manipulation & Exploration
 - Big Data Processing
 - Data Workflow Orchestration
 - Other Python Libraries
 
-### Phase 4: Modern Data Stack
+### Modern Data Stack
 - Data Integration
 - Data Transformation
 - Data Warehouse
-- Cloud Computing
 
-### Phase 5: Data Processing Systems
+### Data Processing Systems
 - Batch
 - Streaming
 
-### Phase 6: NoSQL
+### NoSQL
 
 ### Phase 7: DataOps
 - CI/CD
