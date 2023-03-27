@@ -42,6 +42,7 @@ ___
 - Streaming
 
 ### NoSQL
+[Not only SQL]
 ___
 ## * Cloud Computing 
 - Cloud Provider
