@@ -1,5 +1,5 @@
-# Data and ML Engineering Roadmap 2023
-### Made By: [Mregojos GitHub](https://github.com/Mregojos)
+# Roadmap (Data/Cloud/Devops/ML/AI)
+> By: [Mregojos GitHub](https://github.com/Mregojos)
 
 ## Data Engineering 
 
