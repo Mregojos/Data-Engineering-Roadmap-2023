@@ -4,7 +4,7 @@
 > About: This roadmap is created by me. This roadmap directs what concepts, technology, and tooling to learn as a Data/Cloud/Devops/ML/AI Prctitioner.
 
 ___
-## * Prerequisites *
+## * Prerequisites
 ### Fundamentals (Concepts, Technology, Tooling at the high level view)
 
 ### IT Automation
@@ -12,7 +12,7 @@ ___
 - System Administration (OS, Database, Networking)
 - Version Control
 ___
-## * Data Engineering *
+## * Data Engineering
 
 ### Data Analytics
 - Spreadsheets
@@ -36,15 +36,25 @@ ___
 - Streaming
 
 ### NoSQL
-
-### Phase 7: DataOps
+___
+## * Cloud Computing 
+- Cloud Provider
+- Compute
+- Storage
+- Database
+- Netwroking
+- Security
+- Serverless
+___
+## * DevOps
 - CI/CD
 - COntainerization
 - COntainer Orchestration
 - Infrastructure as Code
 - Configuration Management
-- Monitoring
-
+- Monitoring and Observability
+- Testing
+___
 ## ML Engineering
 
 ### Phase 8: Data Science Workflow
