@@ -1,7 +1,7 @@
-# Roadmap (Data/Cloud/Devops/ML/AI)
+# Roadmap (Data/Cloud/DevOps/ML/AI)
 > By: [Mregojos GitHub](https://github.com/Mregojos)
 
-> About: This roadmap is created by me. This roadmap directs what concepts, technology, and tooling to learn as a Data/Cloud/Devops/ML/AI Practitioner.
+> About: This roadmap directs what concepts, technology, and tooling to learn as a Data/Cloud/Devops/ML/AI Practitioner.
 
 ___
 ## * Prerequisites
@@ -49,7 +49,7 @@ ___
 - Compute
 - Storage
 - Database
-- Netwroking
+- Networking
 - Security
 - Serverless
 - Cloud Architectural Diagram
