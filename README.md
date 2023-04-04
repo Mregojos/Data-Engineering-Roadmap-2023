@@ -22,7 +22,7 @@ ___
 
 ### Data Analytics
 - Spreadsheets
-- Structured Query Language
+- Structured Query Language (SQL)
 - Relational Database Management System (RDMS)
 - Data Visualization
 
@@ -52,15 +52,16 @@ ___
 - Netwroking
 - Security
 - Serverless
-- Architectural Diagram
+- Cloud Architectural Diagram
 ___
 ## * DevOps
 - CI/CD
-- COntainerization
-- COntainer Orchestration
+- Containerization
+- Container Orchestration
 - Infrastructure as Code
 - Configuration Management
 - Monitoring and Observability
+- Logging
 - Testing
 ___
 ## * AI/ML Engineering
