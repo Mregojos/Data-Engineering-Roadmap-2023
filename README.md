@@ -60,8 +60,7 @@ ___
 - Container Orchestration
 - Infrastructure as Code
 - Configuration Management
-- Monitoring and Observability
-- Logging
+- Monitoring, Observability, and Logging
 - Testing
 ___
 ## * AI/ML Engineering
