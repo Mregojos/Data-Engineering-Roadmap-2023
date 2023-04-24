@@ -100,6 +100,8 @@ ___
 ## * Management
 
 ### Project Management
+- Traditional
+- Agile
 
 ### Data Management and Governance
 
