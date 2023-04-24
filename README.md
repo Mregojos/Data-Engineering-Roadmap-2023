@@ -1,11 +1,11 @@
-# Roadmap (Data/Cloud/DevOps/ML/AI)
+# Roadmap (Data/ML/AI/Cloud/DevOps)
 > By: [Mregojos GitHub](https://github.com/Mregojos)
 
-> About: This roadmap directs what concepts, technology, tools, and Best Pratices to learn as a Data/Cloud/Devops/ML/AI Practitioner.
+> About: This roadmap directs what concepts, technologies, tools to learn as a Data/ML/AI/Cloud/Devops Practitioner.
 
 ___
 ## * Prerequisites
-### Fundamentals (Concepts, Technology, Tooling at the high level view)
+### Fundamentals (Concepts, Technologies, Tools)
 - Data Engineering
 - AI/Machine Learning
 - Cloud Computing
@@ -15,7 +15,7 @@ ___
 
 ### IT Automation
 - Core Python Programming
-- System Administration (OS, Database, Networking)
+- System Administration (OS, Database, Networking, Security)
 - Version Control
 ___
 ## * Data Engineering
