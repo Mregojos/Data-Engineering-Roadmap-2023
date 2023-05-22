@@ -1,4 +1,4 @@
-# Roadmap (Data/ML/AI/Cloud/DevOps)
+# Roadmap (Data/ML/AI/Cloud/DevOps/SRE)
 > By: [Mregojos GitHub](https://github.com/Mregojos)
 
 <!--
@@ -7,18 +7,32 @@
 
 ___
 ## * Prerequisites
-### Fundamentals (Concepts, Technologies, Tools)
-- Data Engineering
-- AI/Machine Learning
-- Cloud Computing
-- DevOps
-- Data Science
-- Analytics
-
-### IT Automation
-- Core Python Programming
+### Fundamentals (Concepts, Technologies, Tooling, Best Practices, Use Cases)
 - System Administration (OS, Database, Networking, Security)
+- Programming Language (General-Purpose, Scripting, Querying)
 - Version Control
+- Computer Science Basics
+
+___
+
+## * Cloud Computing 
+- Cloud Provider
+- Compute
+- Storage
+- Database
+- Networking
+- Security
+- Serverless
+- Cloud Architectural Diagram
+___
+## * DevOps
+- CI/CD
+- Containerization
+- Container Orchestration
+- Infrastructure as Code
+- Configuration Management
+- Monitoring, Observability, and Logging
+- Testing
 ___
 ## * Data Engineering
 
@@ -45,25 +59,6 @@ ___
 
 ### NoSQL
 [Not only SQL]
-___
-## * Cloud Computing 
-- Cloud Provider
-- Compute
-- Storage
-- Database
-- Networking
-- Security
-- Serverless
-- Cloud Architectural Diagram
-___
-## * DevOps
-- CI/CD
-- Containerization
-- Container Orchestration
-- Infrastructure as Code
-- Configuration Management
-- Monitoring, Observability, and Logging
-- Testing
 ___
 ## * AI/ML Engineering
 
