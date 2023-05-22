@@ -25,7 +25,7 @@ ___
 ## * DevOps
 - Containerization
 - Container Orchestration
-- Continuous Integrtation / COntinuous Deliver (CI/CD)
+- Continuous Integrtation / Continuous Deliver (CI/CD)
 - Continuous Deployment 
 - Continuous Testing
 
