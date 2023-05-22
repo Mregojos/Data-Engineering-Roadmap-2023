@@ -104,8 +104,9 @@ ___
 
 ### Data Management and Governance
 
+### Model Management and Governance
+
 ### Cloud and DevOps Management and Governance
 
-### Model Management and Governance
 
 
