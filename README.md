@@ -58,6 +58,7 @@ ___
 ### Data Processing Systems
 - Batch
 - Streaming
+- Hybrid
 
 ### NoSQL
 [Not only SQL]
