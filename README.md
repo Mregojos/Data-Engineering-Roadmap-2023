@@ -6,8 +6,7 @@
 -->
 
 ___
-## * Prerequisites
-### Fundamentals (Concepts, Technologies, Tooling, Best Practices, Use Cases)
+## * Fundamentals (Concepts, Technologies, Tooling, Best Practices, Use Cases)
 - System Administration (OS, Database, Networking, Security)
 - Programming Language (General-Purpose, Scripting, Querying)
 - Version Control
