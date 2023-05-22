@@ -13,29 +13,6 @@ ___
 - Computer Science Basics
 
 ___
-## * Cloud Engineering
-
-- Cloud Provider
-- Cloud Computing Important Services (Compute, Storage, Database, Networking, Security, Serverless)
-- Cloud Architectural Diagram
-- Infrastucture as Code
-- Configuration Management
-
-___
-## * DevOps
-- Containerization
-- Container Orchestration
-- Continuous Integrtation / Continuous Deliver (CI/CD)
-- Continuous Deployment 
-- Continuous Testing
-
-___
-## * Site Reliability Engineering (SRE)
-- Monitoring
-- Observability
-- Logging
-- Alerting
-___
 ## * Data Engineering
 
 ### Data Analytics
@@ -94,6 +71,30 @@ ___
 ### ModelOps
 
 ### AI Applications
+___
+## * Cloud Engineering
+
+- Cloud Provider
+- Cloud Computing Important Services (Compute, Storage, Database, Networking, Security, Serverless)
+- Cloud Architectural Diagram
+- Infrastucture as Code
+- Configuration Management
+
+___
+## * DevOps
+- Containerization
+- Container Orchestration
+- Continuous Integrtation / Continuous Deliver (CI/CD)
+- Continuous Deployment 
+- Continuous Testing
+
+___
+## * Site Reliability Engineering (SRE)
+- Monitoring
+- Observability
+- Logging
+- Alerting
+
 ___
 ## * Management
 
