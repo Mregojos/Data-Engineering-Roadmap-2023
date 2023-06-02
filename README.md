@@ -8,7 +8,7 @@
 * Cloud Engineer Path: Fundamentals -> Cloud Engineering
 * DevOps Engineer Path: Fundamentals -> Cloud Engineering -> DevOps
 * Site Reliability Engineer Path: Fundamentals -> Cloud Engineering -> DevOps -> SRE
-* Data Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering -> 
+* Data Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering 
 * ML Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering -> DevOps -> SRE -> Machine Learning / Artificial Intelligence
 
 <!--
