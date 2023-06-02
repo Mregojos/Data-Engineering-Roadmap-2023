@@ -51,7 +51,7 @@ ___
 ### NoSQL (Not only SQL)
 
 ___
-## * AI/ML Engineering
+## * Machine Learning / Artificial Intelligence Engineering
 
 ### Data Science Workflow
 - Case Study
