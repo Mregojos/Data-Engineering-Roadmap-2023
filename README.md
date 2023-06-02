@@ -5,11 +5,11 @@
 
 >> Focus on: Concepts, Technologies, Tools, Best Practices, Use Cases
 
-> Cloud Engineer Path: Fundamentals -> Cloud Engineering
-> DevOps Engineer Path: Fundamentals -> Cloud Engineering -> DevOps
-> Site Reliability Engineer Path: Fundamentals -> Cloud Engineering -> DevOps -> SRE
-> Data Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering -> 
-> ML Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering -> DevOps -> SRE -> Machine Learning / Artificial Intelligence
+* Cloud Engineer Path: Fundamentals -> Cloud Engineering
+* DevOps Engineer Path: Fundamentals -> Cloud Engineering -> DevOps
+* Site Reliability Engineer Path: Fundamentals -> Cloud Engineering -> DevOps -> SRE
+* Data Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering -> 
+* ML Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering -> DevOps -> SRE -> Machine Learning / Artificial Intelligence
 
 <!--
 > About: This roadmap directs what concepts, technologies, tools to learn as a Data/ML/AI/Cloud/Devops Practitioner.
