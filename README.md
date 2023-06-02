@@ -3,7 +3,7 @@
 
 >> Tasks: Design, Build, Operationalize, Deploy, Troubleshoot, Monitor, Maintain, Optimize, Automate
 
->> Focus on: Concepts, Technologies, Tools, Best Practices, Use Cases
+>> Focus on learning: Concepts, Technologies, Tools, Best Practices, Use Cases
 
 * Cloud Engineer Path: Fundamentals -> Cloud Engineering (Focus on Cloud Infrastructure)
 * DevOps Engineer Path: Fundamentals -> Cloud Engineering -> DevOps (Focus on CI/CD Pipelines and fast delivery)
