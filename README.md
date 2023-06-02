@@ -95,7 +95,7 @@ ___
 ## * DevOps (Plan -> Code -> Build -> Test -> Release -> Deploy -> Operate -> Monitor)
 - Containerization
 - Container Orchestration
-- Continuous Integratation / Continuous Deliver (CI/CD)
+- Continuous Integration / Continuous Deliver (CI/CD)
 - Continuous Deployment 
 - Continuous Testing
 
