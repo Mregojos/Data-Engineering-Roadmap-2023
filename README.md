@@ -92,7 +92,7 @@ ___
 - Configuration Management
 
 ___
-## * DevOps
+## * DevOps (Plan -> Code -> Build -> Test -> Release -> Deploy -> Operate -> Monitor)
 - Containerization
 - Container Orchestration
 - Continuous Integratation / Continuous Deliver (CI/CD)
