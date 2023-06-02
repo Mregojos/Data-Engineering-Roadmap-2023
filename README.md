@@ -120,5 +120,15 @@ ___
 
 ### Cloud and DevOps Management and Governance
 
-
+___
+How? Tips?
+0. Choose your tech role
+1. Learn (Theory + Hands-on Pratice)
+2. Portfolio (Projects, Tutorials, Docs, Posts, etc.)
+3. Industry Certifications
+4. Interview Preparations (Resume, Technical Interviews, Behavioral Interviews) 
+5. Networking
+6. Research (Tech is changing rapidly)
+7. Apply
+8. You can do it.
 
