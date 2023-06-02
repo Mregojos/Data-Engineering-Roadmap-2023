@@ -1,9 +1,16 @@
 # Roadmap (Data/ML/AI/Cloud/DevOps/SRE)
 > By: [Mregojos GitHub](https://github.com/Mregojos)
 
->> Design, Build, Operationalize, Deploy, Troubleshoot, Monitor, Maintain, Optimize, Automate
+>> Tasks: Design, Build, Operationalize, Deploy, Troubleshoot, Monitor, Maintain, Optimize, Automate
 
 >> Focus on: Concepts, Technologies, Tools, Best Practices, Use Cases
+
+> Cloud Engineer Path: Fundamentals -> Cloud Engineering
+> DevOps Engineer Path: Fundamentals -> Cloud Engineering -> DevOps
+> Site Reliability Engineer Path: Fundamentals -> Cloud Engineering -> DevOps -> SRE
+> Data Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering -> 
+> ML Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering -> DevOps -> SRE -> Machine Learning / Artificial Intelligence
+
 <!--
 > About: This roadmap directs what concepts, technologies, tools to learn as a Data/ML/AI/Cloud/Devops Practitioner.
 -->
