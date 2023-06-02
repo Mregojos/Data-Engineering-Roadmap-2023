@@ -1,12 +1,13 @@
 # Roadmap (Data/ML/AI/Cloud/DevOps/SRE)
 > By: [Mregojos GitHub](https://github.com/Mregojos)
-
+> Design, Build, Operationalize, Deploy, Troubleshoot, Monitor, Maintain, Optimize, Automate
+> Focus on: Concepts, Technologies, Tools, Best Practices, Use Cases
 <!--
 > About: This roadmap directs what concepts, technologies, tools to learn as a Data/ML/AI/Cloud/Devops Practitioner.
 -->
 
 ___
-## * Fundamentals (Concepts, Technologies, Tooling, Best Practices, Use Cases)
+## * Fundamentals
 - System Administration (OS, Database, Networking, Security)
 - Programming Language (General-Purpose, Scripting, Querying)
 - Version Control (Source Code Management)
