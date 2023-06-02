@@ -9,8 +9,9 @@ ___
 ## * Fundamentals (Concepts, Technologies, Tooling, Best Practices, Use Cases)
 - System Administration (OS, Database, Networking, Security)
 - Programming Language (General-Purpose, Scripting, Querying)
-- Version Control
+- Version Control (Source Code Management)
 - Computer Science Basics
+- Web Software Development (Web Tier, Application Tier, Data Tier)
 
 ___
 ## * Data Engineering
@@ -37,8 +38,8 @@ ___
 - Streaming
 - Hybrid
 
-### NoSQL
-[Not only SQL]
+### NoSQL (Not only SQL)
+
 ___
 ## * AI/ML Engineering
 
@@ -76,7 +77,7 @@ ___
 
 - Cloud Provider
 - Cloud Computing Important Services (Compute, Storage, Database, Networking, Security, Serverless)
-- Cloud Architectural Diagram
+- Cloud Architecture (System Design)
 - Infrastucture as Code
 - Configuration Management
 
@@ -84,7 +85,7 @@ ___
 ## * DevOps
 - Containerization
 - Container Orchestration
-- Continuous Integrtation / Continuous Deliver (CI/CD)
+- Continuous Integratation / Continuous Deliver (CI/CD)
 - Continuous Deployment 
 - Continuous Testing
 
@@ -94,6 +95,7 @@ ___
 - Observability
 - Logging
 - Alerting
+- Incident Response and Management
 
 ___
 ## * Management
