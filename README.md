@@ -122,6 +122,7 @@ ___
 
 ___
 How? Tips?
+
 0. Choose your tech role
 1. Learn (Theory + Hands-on Pratice)
 2. Portfolio (Projects, Tutorials, Docs, Posts, etc.)
