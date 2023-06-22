@@ -1,7 +1,7 @@
 # Roadmap (Data/ML/AI/Cloud/DevOps/SRE)
 > By: [Mregojos GitHub](https://github.com/Mregojos)
 
->> Tasks: Design, Build, Operationalize, Deploy, Troubleshoot, Monitor, Maintain, Optimize, Automate
+>> Tasks: Design, Build, Operationalize, Deploy, Troubleshoot, Monitor, Maintain, Secure, Optimize, Automate
 
 >> Focus on learning: Concepts, Technologies, Tools, Best Practices, Use Cases
 
@@ -87,7 +87,7 @@ ___
 
 - Cloud Provider
 - Cloud Computing Important Services (Compute, Storage, Database, Networking, Security, Serverless)
-- Cloud Architecture (System Design)
+- Cloud Architecture (System Design, Cost Optimization, Operational Excellence, Reliability, Performance Optimization, Security, Privacy, and Compliance)
 - Infrastucture as Code
 - Configuration Management
 
@@ -132,4 +132,6 @@ How? Tips?
 6. Research (Tech is changing rapidly)
 7. Apply
 8. You can do it.
+
+Important Skills: Communication, Collaboration, Problem-Solving, Learning, Adaptability
 
