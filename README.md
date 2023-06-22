@@ -9,7 +9,7 @@
 * DevOps Engineer Path: Fundamentals -> Cloud Engineering -> DevOps (Focus on CI/CD Pipelines and fast delivery)
 * Site Reliability Engineer Path: Fundamentals -> Cloud Engineering -> DevOps -> SRE (Focus on Reliability of the System)
 * Data Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering (Focus on Data Pipelines)
-* AI/ML Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering -> DevOps -> SRE -> Machine Learning / Artificial Intelligence (Focus on Intelligent Systems)
+* AI/ML Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering -> DevOps & SRE -> Machine Learning / Artificial Intelligence (Focus on Intelligent Systems)
 
 <!--
 > About: This roadmap directs what concepts, technologies, tools to learn as a Data/ML/AI/Cloud/Devops Practitioner.
