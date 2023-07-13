@@ -5,7 +5,7 @@
 
 >> Focus on learning: Concepts, Technologies, Tools, Best Practices, Use Cases
 
-* Cloud Engineer/Architect Path: Fundamentals -> Cloud Engineering (Focus on Cloud Infrastructure)
+* Cloud Engineer/Architect Path: Fundamentals -> Cloud Engineering (Focus on Cloud Infrastructure and Architecture)
 * DevOps Engineer Path: Fundamentals -> Cloud Engineering -> DevOps (Focus on CI/CD Pipelines and fast delivery)
 * Site Reliability Engineer Path: Fundamentals -> Cloud Engineering -> DevOps -> SRE (Focus on Reliability of the System)
 * Data Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering (Focus on Data Pipelines)
