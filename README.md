@@ -5,11 +5,12 @@
 
 >> Focus on learning: Concepts, Technologies, Tools, Best Practices, Use Cases
 
-* Cloud Engineer Path: Fundamentals -> Cloud Engineering (Focus on Cloud Infrastructure)
+* Cloud Engineer/Architect Path: Fundamentals -> Cloud Engineering (Focus on Cloud Infrastructure)
 * DevOps Engineer Path: Fundamentals -> Cloud Engineering -> DevOps (Focus on CI/CD Pipelines and fast delivery)
 * Site Reliability Engineer Path: Fundamentals -> Cloud Engineering -> DevOps -> SRE (Focus on Reliability of the System)
 * Data Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering (Focus on Data Pipelines)
 * AI/ML Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering -> DevOps & SRE -> Machine Learning / Artificial Intelligence (Focus on Intelligent Systems)
+* (Cloud) Cybersecurity Engineer: Fundamentals -> Cloud Engineering  -> Cloud Security (Focus on Cloud Securit, Privacy, and Compliance)
 
 <!--
 > About: This roadmap directs what concepts, technologies, tools to learn as a Data/ML/AI/Cloud/Devops Practitioner.
@@ -82,12 +83,19 @@ ___
 ### ModelOps
 
 ### AI Applications
+
 ___
 ## * Cloud Engineering
 
 - Cloud Provider
 - Cloud Computing Important Services (Compute, Storage, Database, Networking, Security, Serverless)
-- Cloud Architecture (System Design, Cost Optimization, Operational Excellence, Reliability, Performance Optimization, Security, Privacy, and Compliance)
+- Cloud Architecture
+  - System Design
+  - Cost Optimization
+  - Operational Excellence
+  - Reliability
+  - Performance Optimization
+  - Security, Privacy, and Compliance
 - Infrastucture as Code
 - Configuration Management
 
@@ -121,7 +129,7 @@ ___
 ### Cloud and DevOps Management and Governance
 
 ___
-How? Tips?
+### How? Tips?
 
 0. Choose your tech role
 1. Learn (Theory + Hands-on Pratice)
@@ -134,4 +142,9 @@ How? Tips?
 8. You can do it.
 
 Important Skills: Communication, Collaboration, Problem-Solving, Learning, Adaptability
+
+### FAQ:
+
+> Do you need how to code?
+>> Yes
 
