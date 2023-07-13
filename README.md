@@ -133,7 +133,7 @@ ___
 
 0. Choose your tech role
 1. Learn (Theory + Hands-on Pratice)
-2. Portfolio (Projects, Tutorials, Docs, Posts, etc.)
+2. Portfolio (Projects, Tutorials, Docs, Posts, Evidence to show, etc.)
 3. Industry Certifications
 4. Interview Preparations (Resume, Technical Interviews, Behavioral Interviews) 
 5. Networking
