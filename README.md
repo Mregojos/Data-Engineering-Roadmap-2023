@@ -143,8 +143,3 @@ ___
 
 Important Skills: Communication, Collaboration, Problem-Solving, Learning, Adaptability
 
-### FAQ:
-
-> Do you need how to code?
->> Yes
-
