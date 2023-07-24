@@ -132,12 +132,12 @@ ___
 ### How? Tips?
 
 0. Choose your tech role
-1. Learn (Theory + Hands-on Pratice)
+1. Learn (Theory + Hands-on Pratice); use AI tools to power up your learning.
 2. Portfolio (Projects, Tutorials, Docs, Posts, Evidence to show, etc.)
 3. Industry Certifications
 4. Interview Preparations (Resume, Technical Interviews, Behavioral Interviews) 
 5. Networking
-6. Research (Tech is changing rapidly)
+6. Research (Tech is changing and evolving rapidly)
 7. Apply
 8. You can do it.
 
