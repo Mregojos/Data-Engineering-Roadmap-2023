@@ -13,7 +13,7 @@ Roles
 * Cloud Cybersecurity Engineer: Fundamentals -> Cloud Engineering  -> Cloud Security (Focus on Cloud Security, Privacy, and Compliance)
 ---
   * Tasks: Design, Build, Operationalize, Deploy, Troubleshoot, Monitor, Maintain, Secure, Optimize, Automate
-  * Focus on learning: Concepts, Technologies, Tools, Best Practices, Use Cases
+  * Focus on learning: Concepts, Technologies, Tools, Best Practices, Use Cases, Architecture Framework
 <!--
 > About: This roadmap directs what concepts, technologies, tools to learn as a Data/ML/AI/Cloud/Devops Practitioner.
 -->
