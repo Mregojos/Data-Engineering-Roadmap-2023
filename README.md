@@ -22,7 +22,7 @@ ___
 ## * Fundamentals
 - System Administration (Operating System, Database, Networking, Security)
 - Programming Language for Automation (General-Purpose, Scripting, Querying)
-- Version Control (Source Code Management)
+- Version Control (VC) / Source Code Management (SCM)
 - Computer Science Basics
 
 ___
