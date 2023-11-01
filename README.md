@@ -150,4 +150,3 @@ ___
 8. You can do it.
 
 Important Skills: Communication, Collaboration, Problem-Solving, Learning, Adaptability
-
