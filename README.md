@@ -1,28 +1,29 @@
 # Roadmap (Data/ML/AI/Cloud/DevOps/SRE)
 > By: [Mregojos GitHub](https://github.com/Mregojos)
 
->> Tasks: Design, Build, Operationalize, Deploy, Troubleshoot, Monitor, Maintain, Secure, Optimize, Automate
 
->> Focus on learning: Concepts, Technologies, Tools, Best Practices, Use Cases
+---
+Roles
 
 * Cloud Engineer/Architect Path: Fundamentals -> Cloud Engineering (Focus on Cloud Infrastructure and Architecture)
 * DevOps Engineer Path: Fundamentals -> Cloud Engineering -> DevOps (Focus on CI/CD Pipelines and fast delivery)
 * Site Reliability Engineer Path: Fundamentals -> Cloud Engineering -> DevOps -> SRE (Focus on Reliability of the System)
 * Data Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering (Focus on Data Pipelines)
 * AI/ML Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering -> DevOps & SRE -> Machine Learning / Artificial Intelligence (Focus on Intelligent Systems)
-* (Cloud) Cybersecurity Engineer: Fundamentals -> Cloud Engineering  -> Cloud Security (Focus on Cloud Security, Privacy, and Compliance)
-
+* Cloud Cybersecurity Engineer: Fundamentals -> Cloud Engineering  -> Cloud Security (Focus on Cloud Security, Privacy, and Compliance)
+---
+  * Tasks: Design, Build, Operationalize, Deploy, Troubleshoot, Monitor, Maintain, Secure, Optimize, Automate
+  * Focus on learning: Concepts, Technologies, Tools, Best Practices, Use Cases
 <!--
 > About: This roadmap directs what concepts, technologies, tools to learn as a Data/ML/AI/Cloud/Devops Practitioner.
 -->
 
 ___
 ## * Fundamentals
-- System Administration (OS, Database, Networking, Security)
-- Programming Language (General-Purpose, Scripting, Querying)
+- System Administration (Operating System, Database, Networking, Security)
+- Programming Language for Automation (General-Purpose, Scripting, Querying)
 - Version Control (Source Code Management)
 - Computer Science Basics
-- Web Software Development (Web Tier, Application Tier, Data Tier)
 
 ___
 ## * Data Engineering
@@ -32,6 +33,7 @@ ___
 - Structured Query Language (SQL)
 - Relational Database Management System (RDMS)
 - Data Visualization
+- Data Reporting
 
 ### Data Engineering with Python
 - Data Manipulation & Exploration
@@ -43,6 +45,11 @@ ___
 - Data Integration
 - Data Transformation
 - Data Warehouse
+
+### Data Pipeline
+- Extract, Transform, Load
+- Extract, Load, Transform
+- Extract, Load, Transform, Load
 
 ### Data Processing Systems
 - Batch
@@ -106,6 +113,7 @@ ___
 - Continuous Integration / Continuous Deliver (CI/CD)
 - Continuous Deployment 
 - Continuous Testing
+- Development (Web Tier, Application Tier, Data Tier)
 
 ___
 ## * Site Reliability Engineering (SRE)
@@ -135,7 +143,7 @@ ___
 1. Learn (Theory + Hands-on Pratice); use AI tools to power up your learning.
 2. Portfolio (Projects, Tutorials, Docs, Posts, Evidence to show, etc.)
 3. Industry Certifications
-4. Interview Preparations (Resume, Technical Interviews, Behavioral Interviews) 
+4. Interview Preparations (Resume, Technical Interviews, Non-Tech / Behavioral Interviews) 
 5. Networking
 6. Research (Tech is changing and evolving rapidly)
 7. Apply
