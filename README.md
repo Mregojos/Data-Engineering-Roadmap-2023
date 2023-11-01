@@ -1,4 +1,4 @@
-# Roadmap (Data/ML/AI/Cloud/DevOps/SRE) with Resources
+# Roadmap (Data/ML/AI/Cloud/DevOps/SRE)
 > By: [Mregojos GitHub](https://github.com/Mregojos)
 
 
@@ -136,7 +136,7 @@ ___
 
 ### Cloud and DevOps Management and Governance
 
-___
+---
 ### How? Tips?
 
 0. Choose your tech role
@@ -150,3 +150,8 @@ ___
 8. You can do it.
 
 Important Skills: Communication, Collaboration, Problem-Solving, Learning, Adaptability
+
+---
+Resources:
+* Tech Stack for Cloud, DevOps, and SRE: https://github.com/Mregojos/tech-stack
+* Project Collections: https://github.com/Mregojos/MRegojos#my-project-collections
