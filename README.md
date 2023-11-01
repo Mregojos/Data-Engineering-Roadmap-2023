@@ -1,4 +1,4 @@
-# Roadmap (Data/ML/AI/Cloud/DevOps/SRE)
+# Roadmap (Data/ML/AI/Cloud/DevOps/SRE) with Resources
 > By: [Mregojos GitHub](https://github.com/Mregojos)
 
 
