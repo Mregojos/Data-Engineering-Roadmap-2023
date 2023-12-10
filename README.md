@@ -70,25 +70,15 @@ ___
 - Modeling
 - Model Evaluation
 - Deployment
-
 ### Math
-
 ### Data Science with Python
-
 ### Machine Learning
-
 ### Deep Learning
-
 ### Domain Knowledge
-
 ### A/B Testing
-
 ### Research
-
 ### MLOps
-
 ### ModelOps
-
 ### AI Applications
 
 ___
