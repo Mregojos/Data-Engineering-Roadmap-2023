@@ -82,7 +82,7 @@ ___
 ### AI Applications
 
 ___
-## * Cloud Engineering
+## * Cloud Engineering and Architecture
 
 - Cloud Provider
 - Cloud Computing Important Services (Compute, Storage, Database, Networking, Security, Serverless)
@@ -103,34 +103,37 @@ ___
 - Continuous Integration / Continuous Deliver (CI/CD)
 - Continuous Deployment 
 - Continuous Testing
-- Development (Web Tier, Application Tier, Data Tier)
+- Development
+  * Web Tier / Presentation Tier
+  * Application Tier / Logic Tier
+  * Data Tier / Database Tier
 
 ___
 ## * Site Reliability Engineering (SRE): Scalable, Reliable, Efficient
+- Four Golden Sign: Latency, Trace, Errors, Saturation
 - Monitoring
 - Observability
+  * Logs
+  * Metrics
+  * Alerts
 - Logging
 - Alerting
 - Incident Response and Management
 
 ___
 ## * Management
-
 ### Project Management
 - Traditional
 - Agile
-
 ### Data Management and Governance
-
 ### Model Management and Governance
-
 ### Cloud and DevOps Management and Governance
 
 ---
 ### How? Tips?
 
 0. Choose your tech role
-1. Learn (Theory + Hands-on Pratice); use AI tools to power up your learning.
+1. Learn (Theory + Hands-on Pratice); use AI tools and Prompt Engineering to power up your learning.
 2. Portfolio (Projects, Tutorials, Docs, Posts, Evidence to show, etc.)
 3. Industry Certifications
 4. Interview Preparations (Resume, Technical Interviews, Non-Tech / Behavioral Interviews) 
