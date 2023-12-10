@@ -79,6 +79,8 @@ ___
 ### Research
 ### MLOps
 ### ModelOps
+### AIOps
+### Prompt Engineering
 ### AI Applications
 
 ___
