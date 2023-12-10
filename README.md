@@ -150,4 +150,4 @@ Important Skills: Communication, Collaboration, Problem-Solving, Learning, Adapt
 ---
 Resources:
 * Tech Stack for Cloud, DevOps, and SRE: https://github.com/Mregojos/tech-stack
-* Project Collections: https://github.com/Mregojos/MRegojos#my-project-collections
+* Project Collections: https://github.com/Mregojos/MRegojos#my-project-collection
