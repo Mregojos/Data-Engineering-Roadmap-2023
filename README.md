@@ -80,6 +80,7 @@ ___
 ### MLOps
 ### ModelOps
 ### AIOps
+### Generative AI
 ### Prompt Engineering
 ### AI Applications
 
