@@ -23,7 +23,7 @@ ___
 - System Administration (Operating System, Database, Networking, Security)
 - Programming Language for Automation (General-Purpose, Scripting, Querying)
 - Version Control (VC) / Source Code Management (SCM)
-- Computer Science Basics
+- Computer Science Fundamentals
 
 ___
 ## * Data Engineering
