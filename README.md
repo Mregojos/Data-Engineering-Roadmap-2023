@@ -113,7 +113,7 @@ ___
 
 ___
 ## * Site Reliability Engineering (SRE): Scalable, Reliable, Efficient [🔝](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
-- Four Golden Sign
+- Four Golden Signal
   * Latency
   * Traffic
   * Errors
