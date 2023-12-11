@@ -5,7 +5,7 @@
 ---
 Roles
 
-* Cloud Engineer/Architect Path: Fundamentals -> Cloud Engineering and Architecture (Focus on Cloud Infrastructure and Architecture)
+* Cloud Engineer/Architect Path: [Fundamentals](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-fundamentals) -> Cloud Engineering and Architecture (Focus on Cloud Infrastructure and Architecture)
 * DevOps Engineer Path: Fundamentals -> Cloud Engineering -> DevOps (Focus on CI/CD Pipelines and fast delivery)
 * Site Reliability Engineer Path: Fundamentals -> Cloud Engineering -> DevOps -> SRE (Focus on Scalability, Reliability, and Efficiency of the System)
 * Data Engineer Path: Fundamentals -> Data Enginerring & Cloud Engineering (Focus on Data Pipelines)
