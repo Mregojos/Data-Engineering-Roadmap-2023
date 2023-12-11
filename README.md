@@ -139,15 +139,15 @@ ___
 ---
 ### How? Tips? [🔝](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
 
-0. Choose your tech role
-1. Learn (Theory + Hands-on Pratice); use AI tools and Prompt Engineering to power up your learning.
-2. Portfolio (Projects, Tutorials, Docs, Posts, Evidence to show, etc.)
-3. Industry Certifications
-4. Interview Preparations (Resume, Technical Interviews, Non-Tech / Behavioral Interviews) 
-5. Networking
-6. Research (Tech is changing and evolving rapidly)
-7. Apply
-8. You can do it.
+↗️ Choose your tech role 
+↗️ Learn (Theory + Hands-on Pratice); use AI tools and Prompt Engineering to power up your learning.
+↗️  Portfolio (Projects, Tutorials, Docs, Posts, Evidence to show, etc.)
+↗️  Industry Certifications
+↗️  Interview Preparations (Resume, Technical Interviews, Non-Tech / Behavioral Interviews) 
+↗️  Networking
+↗️  Research (Tech is changing and evolving rapidly)
+↗️  Apply
+↗️  You can do it.
 
 Important Skills: Communication, Collaboration, Problem-Solving, Learning, Adaptability
 
