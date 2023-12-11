@@ -26,7 +26,7 @@ ___
 - Computer Science Fundamentals
 
 ___
-## * Data Engineering
+## * Data Engineering [🔝](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
 
 ### Data Analytics
 - Spreadsheets
@@ -59,7 +59,7 @@ ___
 ### NoSQL (Not only SQL)
 
 ___
-## * Machine Learning / Artificial Intelligence Engineering
+## * Machine Learning / Artificial Intelligence Engineering [🔝](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
 
 ### Data Science Workflow
 - Case Study
@@ -85,7 +85,7 @@ ___
 ### AI Applications
 
 ___
-## * Cloud Engineering and Architecture
+## * Cloud Engineering and Architecture [🔝](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
 
 - Cloud Provider
 - Cloud Computing Important Services (Compute, Storage, Database, Networking, Security, Serverless)
@@ -100,7 +100,7 @@ ___
 - Configuration Management
 
 ___
-## * DevOps (Plan -> Code -> Build -> Test -> Release -> Deploy -> Operate -> Monitor)
+## * DevOps (Plan -> Code -> Build -> Test -> Release -> Deploy -> Operate -> Monitor) [🔝](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
 - Containerization
 - Container Orchestration
 - Continuous Integration / Continuous Deliver (CI/CD)
@@ -112,7 +112,7 @@ ___
   * Data Tier / Database Tier
 
 ___
-## * Site Reliability Engineering (SRE): Scalable, Reliable, Efficient
+## * Site Reliability Engineering (SRE): Scalable, Reliable, Efficient [🔝](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
 - Four Golden Sign
   * Latency
   * Traffic
@@ -128,7 +128,7 @@ ___
 - Incident Response and Management
 
 ___
-## * Management
+## * Management [🔝](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
 ### Project Management
 - Traditional
 - Agile
@@ -137,7 +137,7 @@ ___
 ### Cloud and DevOps Management and Governance
 
 ---
-### How? Tips?
+### How? Tips? [🔝](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
 
 0. Choose your tech role
 1. Learn (Theory + Hands-on Pratice); use AI tools and Prompt Engineering to power up your learning.
@@ -152,6 +152,6 @@ ___
 Important Skills: Communication, Collaboration, Problem-Solving, Learning, Adaptability
 
 ---
-Resources:
+Resources: [🔝](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
 * Tech Stack for Cloud, DevOps, and SRE: https://github.com/Mregojos/tech-stack
 * Project Collections: https://github.com/Mregojos/MRegojos#my-project-collection
