@@ -113,7 +113,11 @@ ___
 
 ___
 ## * Site Reliability Engineering (SRE): Scalable, Reliable, Efficient
-- Four Golden Sign: Latency, Trace, Errors, Saturation
+- Four Golden Sign
+  * Latency
+  * Traffic
+  * Errors
+  * Saturation
 - Monitoring
 - Observability
   * Logs
