@@ -118,12 +118,12 @@ ___
   * Traffic
   * Errors
   * Saturation
-- Monitoring
 - Observability
   * Logs
   * Metrics
   * Alerts
 - Logging
+- Monitoring
 - Alerting
 - Incident Response and Management
 
