@@ -19,7 +19,7 @@ Roles
 -->
 
 ___
-## * Fundamentals
+## * Fundamentals [TOP](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
 - System Administration (Operating System, Database, Networking, Security)
 - Programming Language for Automation (General-Purpose, Scripting, Querying)
 - Version Control (VC) / Source Code Management (SCM)
