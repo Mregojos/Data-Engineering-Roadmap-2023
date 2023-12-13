@@ -7,6 +7,12 @@
 * [Fundamentals]()
 * Data Engineering
 * Machine Learning / Artificial Intelligence Engineering
+* Cloud Engineering and Architecture
+* DevOps
+* SRE
+* Management
+* How/Tips
+* Resources
 
 
 ---
