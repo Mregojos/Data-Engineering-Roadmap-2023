@@ -134,7 +134,7 @@ ___
 - Observability
   * Logs
   * Metrics
-  * Alerts
+  * Trace
 - Logging
 - Monitoring
 - Alerting
