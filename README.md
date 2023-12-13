@@ -7,7 +7,7 @@
 
 
 ---
-## Roles
+## [Roles](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/blob/main/README.md#roles)
 
 * Cloud Engineer/Architect Path: [Fundamentals](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-fundamentals-) -> [Cloud Engineering and Architecture](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-cloud-engineering-and-architecture-) (Focus on Cloud Infrastructure and Architecture)
 * DevOps Engineer Path: [Fundamentals](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-fundamentals-) -> [Cloud Engineering and Architecture](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-cloud-engineering-and-architecture-) -> [DevOps](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-devops-plan---code---build---test---release---deploy---operate---monitor-) (Focus on CI/CD Pipelines, Agility and Faster Delivery)
