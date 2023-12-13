@@ -4,15 +4,15 @@
 ---
 ## Table of Contents
 * [Roles](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE#roles)
-* [Fundamentals]()
-* Data Engineering
-* Machine Learning / Artificial Intelligence Engineering
-* Cloud Engineering and Architecture
-* DevOps
-* SRE
-* Management
-* How/Tips
-* Resources
+* [Fundamentals](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE#-fundamentals-)
+* [Data Engineering](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-data-engineering-)
+* [Machine Learning / Artificial Intelligence Engineering](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-machine-learning--artificial-intelligence-engineering-)
+* [Cloud Engineering and Architecture](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-cloud-engineering-and-architecture-)
+* [DevOps](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-devops-plan---code---build---test---release---deploy---operate---monitor-)
+* [SRE](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-site-reliability-engineering-sre-scalable-reliable-efficient-)
+* [Management](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE#-management-)
+* [How](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE#how-tips-)
+* [Resources](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE#resources-)
 
 
 ---
