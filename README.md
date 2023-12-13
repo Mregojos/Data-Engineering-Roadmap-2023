@@ -4,6 +4,9 @@
 ---
 ## Table of Contents
 * [Roles](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/blob/main/README.md#roles-)
+* [Fundamentals]()
+* Data Engineering
+* Machine Learning / Artificial Intelligence Engineering
 
 
 ---
