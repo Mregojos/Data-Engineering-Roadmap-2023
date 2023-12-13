@@ -2,7 +2,7 @@
 > By: [Mregojos GitHub](https://github.com/Mregojos)
 
 ---
-## Table of Contents
+## Navigation
 * [Roles](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE#roles)
 * [Fundamentals](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE#-fundamentals-)
 * [Data Engineering](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-data-engineering-)
