@@ -119,6 +119,10 @@ ___
 - Continuous Integration / Continuous Deliver (CI/CD)
 - Continuous Deployment 
 - Continuous Testing
+  * Unit Test
+  * Integration Test
+  * Load Test
+  * Security Test
 - Development
   * Web Tier / Presentation Tier
   * Application Tier / Logic Tier
