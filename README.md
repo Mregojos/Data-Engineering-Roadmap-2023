@@ -100,7 +100,7 @@ ___
 ___
 ## * Cloud Engineering and Architecture [🔝](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
 
-- Cloud Provider
+- Cloud Service Provider
 - Cloud Computing Important Services (Compute, Storage, Database, Networking, Security, Serverless)
 - Cloud Architecture
   - System Design
@@ -125,7 +125,7 @@ ___
   * Security Test
 - Development
   * Web Tier / Presentation Tier
-  * Application Tier / Logic Tier
+  * Application Tier / (Business) Logic Tier
   * Data Tier / Database Tier
 
 ___
@@ -133,16 +133,16 @@ ___
 - Four Golden Signal
   * Latency
   * Traffic
-  * Errors
+  * Error
   * Saturation
 - Service Levels
-  * Service Level Indicatior
+  * Service Level Indicator
   * Service Level Objective
   * Service Level Agreement
 - Observability
   * Logs
   * Metrics
-  * Trace
+  * Alert
 - Logging
 - Monitoring
 - Alerting
@@ -175,4 +175,5 @@ Important Skills: Communication, Collaboration, Problem-Solving, Learning, Adapt
 ---
 ## Resources [🔝](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
 * Tech Stack for Cloud, DevOps, and SRE: https://github.com/Mregojos/tech-stack
+* Tech Stack for Data and ML/AI: https://github.com/Mregojos/ data-ml-tech-stack
 * Project Collections: https://github.com/Mregojos/MRegojos#my-project-collection
