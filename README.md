@@ -161,7 +161,7 @@ ___
 ---
 ## How? Tips? [🔝](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
 
-- ⬆️ Choose your tech role 
+- ⬆️ Choose your tech role (and starts with why?)
 - ⬆️ Learn (Theory + Hands-on Pratice); use AI tools and Prompt Engineering to power up your learning.
 - ⬆️  Portfolio (Projects, Tutorials, Docs, Posts, Evidence to show, etc.)
 - ⬆️  Industry Certifications
