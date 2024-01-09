@@ -176,5 +176,5 @@ Important Skills: Communication, Collaboration, Problem-Solving, Learning, Adapt
 ---
 ## Resources [🔝](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#roadmap-datamlaiclouddevopssre)
 * Tech Stack for Cloud, DevOps, and SRE: https://github.com/Mregojos/tech-stack
-* Tech Stack for Data and ML/AI: https://github.com/Mregojos/ data-ml-tech-stack
+* Tech Stack for Data and ML/AI: https://github.com/Mregojos/tech-stack-data-ml
 * Project Collections: https://github.com/Mregojos/MRegojos#my-project-collection
