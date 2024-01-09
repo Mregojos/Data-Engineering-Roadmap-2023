@@ -4,7 +4,7 @@
 ---
 ## Navigation
 * [Roles](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE#roles)
-* [Fundamentals](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE#-fundamentals-)
+* [Fundamentals / Prerequisites](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE#-fundamentals-)
 * [Data Engineering](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-data-engineering-)
 * [Machine Learning / Artificial Intelligence Engineering](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-machine-learning--artificial-intelligence-engineering-)
 * [Cloud Engineering and Architecture](https://github.com/Mregojos/Roadmap-Data-ML-AI-Cloud-DevOps-SRE/tree/main#-cloud-engineering-and-architecture-)
