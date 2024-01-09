@@ -95,6 +95,7 @@ ___
 ### AIOps
 ### Generative AI
 ### Prompt Engineering
+### Multimodal
 ### AI Applications
 
 ___
